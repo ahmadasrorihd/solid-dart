@@ -1,0 +1,5 @@
+class MyRobot {
+  void cut() {
+    //..
+  }
+}
