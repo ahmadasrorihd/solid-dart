@@ -1,3 +1,5 @@
+// RIGHT
+
 // High-level module
 class PizzaRobot {
   final Ability ability;

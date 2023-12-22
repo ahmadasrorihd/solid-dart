@@ -1,10 +1,10 @@
-abstract class IRobotAbility {
+abstract class AdvanceAbility {
   void spinAround();
   void rotateArm();
   void wiggleAntenas();
 }
 
-abstract class BasicAbility implements IRobotAbility {
+abstract class BasicAbility implements AdvanceAbility {
   void move();
 }
 

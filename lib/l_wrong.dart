@@ -12,8 +12,8 @@ class EdenRobot extends SamRobot {
   }
 }
 
-String orderCoffe(SamRobot samRobot) {
-  return samRobot.makeCoffe();
+String orderCoffe(EdenRobot edenRobot) {
+  return edenRobot.giveWater();
 }
 
 void main() {

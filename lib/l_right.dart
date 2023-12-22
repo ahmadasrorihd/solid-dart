@@ -1,4 +1,4 @@
-// L-RIGHT
+// RIGHT
 
 class SamRobot {
   makeCoffe() {
@@ -9,7 +9,7 @@ class SamRobot {
 class EdenRobot extends SamRobot {
   @override
   makeCoffe() {
-    return "Coffe";
+    return "Cappucino";
   }
 }
 
